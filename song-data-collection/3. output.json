@@ -1,0 +1,3148 @@
+[
+    {
+        "id": "1",
+        "name": "\u0dbb\u0db1\u0dca \u0d9a\u0dd4\u0dbb\u0dc4\u0db1\u0dca \u0db8\u0dbd",
+        "youtube_link": "https://www.youtube.com/watch?v=T-GXCAku5Xc",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "\u0d85\u0da9\u0db8\u0dca\u0db6\u0dbb\u0dba\u0dd2 \u0db6\u0dbd\u0dd4\u0dc0\u0db8\u0db1\u0db8\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=xBofgoNnAcg",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0dad",
+                    "\u0dc4\u0dd2\u0dad",
+                    "\u0db8\u0db1\u0dc3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "\u0dc3\u0dd4\u0dbd\u0d82\u0d9c\u0dcf \u0dc3\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=IryBitrtMbw",
+        "singers": [
+            "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda\u0da9\u0dca\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dba\u0db1\u0dc0\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "\u0dc4\u0dd2\u0db1\u0dc4\u0dda\u0db1\u0dda \u0db8\u0db1\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=K9VtrFOuyc8",
+        "singers": [
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "\u0dbb\u0dd9\u0dc3\u0dca \u0dc0\u0dd2\u0daf\u0dd9\u0db1\u0dcf \u0dc3\u0db8\u0dcf\u0db1\u0dcf\u0dbd\u0dd2\u0dba\u0d9a",
+        "youtube_link": "https://www.youtube.com/watch?v=GW4APZftzEU",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "\u0daf\u0db8\u0dca\u0db4\u0dad\u0dcf \u0dc4\u0db1\u0dca\u0daf\u0dcf\u0dc0",
+        "youtube_link": "https://www.youtube.com/watch?v=APgDFNJqoCk",
+        "singers": [
+            "\u0dc3\u0da0\u0dd2\u0db1\u0dca",
+            "\u0dbb\u0d9b\u0dd2\u0dad",
+            "\u0d91\u0dbb\u0d82\u0d9c"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "\u0dbb\u0db1\u0dca \u0dc0\u0db1\u0dca \u0db8\u0dbd \u0daf\u0db8\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=28oPwzIbAyY",
+        "singers": [
+            "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda\u0da9\u0dca\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "\u0dc4\u0dd2\u0dbb\u0dd4 \u0db8\u0dda\u0d9a\u0dd2 \u0dba\u0dd1\u0dba\u0dd2 \u0db1\u0dd3\u0dbd\u0dcf \u0d85\u0dc4\u0dc3\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=kPUV1cGpo48",
+        "singers": [
+            "\u0d85\u0db8\u0dd2\u0dbd\u0dcf \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "\u0dc3\u0db3\u0dc0\u0dad\u0dd2\u0dba\u0dd9",
+        "youtube_link": "https://www.youtube.com/watch?v=U5kA78ImD9w",
+        "singers": [
+            "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda\u0da9\u0dca\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "\u0dc3\u0dd4\u0dbb\u0d9c\u0db1 \u0d9a\u0dd2\u0dbb\u0dd2\u0dbd\u0dca\u0dbd\u0dd3",
+        "youtube_link": "https://www.youtube.com/watch?v=70VUYE4Z2lI",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0d89\u0db1\u0dca\u0dc6\u0dcf\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "\u0da0\u0db1\u0dca\u0daf\u0dca\u0dbb\u0dba\u0dcf\u0db1\u0dca \u0db4\u0dd2\u0da9\u0dd4",
+        "youtube_link": "https://www.youtube.com/watch?v=4UzMhZ3kZGo",
+        "singers": [
+            "\u0da9\u0dd0\u0d9e\u0dd3"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "name": "\u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dda \u0d9a\u0dd2\u0dba\u0db1\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=J10PN0W_gVQ",
+        "singers": [
+            "\u0d92.\u0d9a\u0dda.\u0d92",
+            "\u0db4\u0dca\u0dbb\u0dd2\u0dc4\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0da2\u0dd2\u0dc0\u0dd3\u0dad\u0dba",
+                    "\u0db4\u0db1"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dcf",
+                    "\u0dba\u0dc4\u0dc5\u0dd4\u0dc0",
+                    "\u0dba\u0dcf\u0dc5\u0dd4\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "\u0dc3\u0dd2\u0dc4\u0dd2\u0dbd\u0dca \u0db8\u0dcf\u0dbb\u0dd6\u0dad",
+        "youtube_link": "https://www.youtube.com/watch?v=eO8WilUNTlY",
+        "singers": [
+            "\u0db8\u0dbd\u0dd2\u0dad\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "name": "\u0dba\u0dc0\u0dca\u0dc0\u0db1\u0dda \u0dc3\u0dd3\u0dc4\u0dd2\u0db1",
+        "youtube_link": "https://www.youtube.com/watch?v=liRcVsUbMU0",
+        "singers": [
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dba\u0dc0\u0dca\u0dc0\u0db1\u0dba\u0db1\u0dca",
+                    "\u0dad\u0dbb\u0dd4\u0db1\u0dba\u0db1\u0dca",
+                    "\u0dad\u0dbb\u0dd4\u0db1 \u0dc0\u0dba\u0dc3",
+                    "\u0dad\u0dbb\u0dd4\u0db1\u0dba\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dba\u0dc0\u0dca\u0dc0\u0db1\u0dba\u0db1\u0dca",
+                    "\u0dad\u0dbb\u0dd4\u0db1\u0dba\u0db1\u0dca",
+                    "\u0dad\u0dbb\u0dd4\u0db1 \u0dc0\u0dba\u0dc3",
+                    "\u0dad\u0dbb\u0dd4\u0db1\u0dba\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "name": "\u0db8\u0da7 \u0dc4\u0dd3\u0db1\u0dba\u0dcf\u0d9a\u0dca \u0dc0\u0dd9\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=A5Jz2LbnOAM",
+        "singers": [
+            "\u0daf\u0db8\u0dd2\u0dad\u0dca \u0d85\u0dc3\u0d82\u0d9a"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc4\u0dbb\u0dca\u0daf\u0dba",
+                    "\u0dc4\u0daf\u0dc0\u0dad",
+                    "\u0db4\u0db4\u0dd4\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "name": "\u0d86\u0dbb\u0db0\u0db1\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=8IqGkX7jlxg",
+        "singers": [
+            "\u0da9\u0dd0\u0d9e\u0dd3"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "name": "\u0dad\u0dc0 \u0daf\u0dc0\u0dc3\u0d9a\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=N2wfTbi6S4Y",
+        "singers": [
+            "\u0d9a\u0dd3\u0dbb\u0dca\u0dad\u0dd2 \u0db4\u0dd0\u0dc3\u0dca\u0d9a\u0dd4\u0dc0\u0dd9\u0dbd\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "name": "\u0d85\u0db4\u0dd2 \u0d9a\u0dc0\u0dca\u0dbb\u0dd4\u0daf",
+        "youtube_link": "https://www.youtube.com/watch?v=xyWs1b_6Eg4",
+        "singers": [
+            "\u0dc0\u0dcf\u0dba\u0ddd"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0dad\u0dd4\u0dc0\u0dd2\u0dbd\u0dca\u0dbd",
+                    "\u0da0\u0dda\u0dad\u0db1\u0dcf\u0dc0",
+                    "\u0dc3\u0dd2\u0dad\u0dd4\u0dc0\u0dd2\u0dbd\u0dd2",
+                    "\u0dc4\u0dd2\u0dad\u0dd3\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc4\u0dd4\u0daf\u0d9a\u0dbd\u0dcf\u0dc0",
+                    "\u0db4\u0dcf\u0dbd\u0dd4\u0dc0",
+                    "\u0dad\u0db1\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0dbd\u0ddc\u0dc0",
+                    "\u0dbd\u0ddd\u0d9a\u0dba"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d9a\u0dcf\u0dbd\u0dba",
+                    "\u0dc3\u0db8\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "name": "\u0db8\u0dbd\u0dca\u0db4\u0dd0\u0db1\u0dca \u0db4\u0ddc\u0daf\u0d9a\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=BzSQ4gDACGw",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "name": "\u0d85\u0db1\u0db1\u0dca\u0dad\u0dba\u0da7",
+        "youtube_link": "https://www.youtube.com/watch?v=hOzj9ZmX8XA",
+        "singers": [
+            "\u0d9a\u0dc3\u0dd4\u0db1\u0dca \u0d9a\u0dbd\u0dca\u0dc4\u0dcf\u0dbb",
+            "\u0d89\u0db1\u0dca\u0daf\u0dca\u0dbb\u0da0\u0dcf\u0db4\u0dcf \u0dbd\u0dd2\u0dba\u0db1\u0d9c\u0dda"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "name": "\u0dbb\u0dd0 \u0d85\u0dc4\u0dc3\u0dda \u0dad\u0dbb\u0dd4",
+        "youtube_link": "https://www.youtube.com/watch?v=hSHe8fE7abY",
+        "singers": [
+            "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda\u0da9\u0dca\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "name": "\u0dbb\u0ddc\u0db1\u0dca \u0dc3\u0dd4\u0dc0\u0daf \u0daf\u0dd9\u0db1",
+        "youtube_link": "https://www.youtube.com/watch?v=7WKJrFyoo-0",
+        "singers": [
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c",
+            "\u0d8b\u0dbb\u0dda\u0dc2\u0dcf \u0dbb\u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "name": "\u0dc3\u0dd4\u0daf\u0dd4 \u0dc4\u0db1\u0dca\u0dc3\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=1XMp2FsDYsM",
+        "singers": [
+            "\u0d85\u0da2\u0dd2\u0dad\u0dca \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "name": "\u0dbb\u0db1\u0dca \u0d8b\u0d9a\u0dd4\u0dbd\u0dd9",
+        "youtube_link": "https://www.youtube.com/watch?v=fEZ1zqcaS5o",
+        "singers": [
+            "\u0dbb\u0ddc\u0db8\u0dda\u0dc2\u0dca",
+            "\u0dbd\u0d9a\u0dca\u0dc2\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0dc4\u0dbb\u0dca\u0daf\u0dba",
+                    "\u0dc4\u0daf\u0dc0\u0dad",
+                    "\u0db4\u0db4\u0dd4\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "name": "\u0daf\u0dd9\u0db1\u0dd4\u0dc0\u0db1\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=2TWgQrXX1fo",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0db4\u0dda\u0dc2\u0dbd"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "name": "\u0d85\u0dc4\u0db1\u0dca\u0d9a\u0dcf\u0dbb \u0db1\u0d9c\u0dbb\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=KwQz050_Qkc",
+        "singers": [
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "name": "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=7Gtbwc_NJ7I",
+        "singers": [
+            "6\u0dad\u0dca \u0dbd\u0dda\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 5,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 6,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 7,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 8,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "name": "\u0da0\u0dcf\u0db1\u0dca\u0daf\u0db1\u0dd3 \u0db4\u0dba\u0dcf\u0dbd",
+        "youtube_link": "https://www.youtube.com/watch?v=VP5txMDJJxQ",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca",
+            "\u0dc3\u0dcf\u0dbb\u0d82\u0d9c\u0db1\u0dca \u0dc1\u0dca\u0dbb\u0dd3",
+            "\u0d85\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "name": "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba \u0d8b\u0dc3\u0dba\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=sFmQuAVDc-g",
+        "singers": [
+            "\u0dc2\u0dcf\u0db1\u0dca \u0dc4\u0dc3\u0dd2\u0db8\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "name": "\u0dbb\u0dd1 \u0dad\u0dd2\u0dc3\u0dca\u0dc3\u0dda \u0d87\u0dc0\u0dd2\u0dbd\u0dca\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=3s3tZnjRWUY",
+        "singers": [
+            "\u0dbb\u0ddc\u0db8\u0dda\u0dc2\u0dca",
+            "\u0dbd\u0d9a\u0dca\u0dc2\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "name": "\u0daf\u0d9c\u0d9a\u0dcf\u0dbb \u0dc4\u0dd0\u0da9\u0d9a\u0dcf\u0dbb\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=ozGCjrcsp5c",
+        "singers": [
+            "\u0dc3\u0dd2\u0dbb\u0dc3 \u0dc3\u0dd4\u0db4\u0dbb\u0dca\u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dca \u0dad\u0dbb\u0d9c\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "name": "\u0dc3\u0dd9\u0dc0\u0dca\u0dc0\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=BKIOJG214JQ",
+        "singers": [
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "name": "\u0dc3\u0db3 \u0dbb\u0dda\u0db1\u0dd6",
+        "youtube_link": "https://www.youtube.com/watch?v=E4eV5oTbgI4",
+        "singers": [
+            "\u0db4\u0dca\u200d\u0dbb\u0dbb\u0dc3\u0d82\u0d9c",
+            "\u0dc1\u0dc2\u0dd2\u0d9a\u0dcf"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "name": "\u0dc3\u0db3 \u0d85\u0dc4\u0dc3 \u0db4\u0dd4\u0dbb\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=Sn8K3r0B3Fs",
+        "singers": [
+            "\u0dbd\u0d9a\u0dca\u0dc2\u0dd2\u0dad"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "name": "\u0db1\u0dd3\u0dbd \u0db1\u0dd4\u0dc0\u0db1\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=Y2AZ8ZpNIOM",
+        "singers": [
+            "\u0dc3\u0dd2\u0dbb\u0dc3 \u0dc3\u0dd4\u0db4\u0dbb\u0dca\u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dca \u0dad\u0dbb\u0d9c\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "name": "\u0d86\u0daf\u0dbb\u0dda \u0db8\u0dcf \u0db1\u0dd2\u0dc0\u0dcf\u0dbd\u0dba\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=3yg5HH2C9xo",
+        "singers": [
+            "\u0d85\u0db8\u0dd2\u0dbd\u0dcf \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0dad",
+                    "\u0dc4\u0dd2\u0dad",
+                    "\u0db8\u0db1\u0dc3"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "name": "\u0dbd\u0db1\u0dca\u0daf\u0dd4",
+        "youtube_link": "https://www.youtube.com/watch?v=aH7lkfFyIKM",
+        "singers": [
+            "\u0da9\u0dd3\u0da7\u0dd0\u0db4\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "name": "\u0d94\u0db6\u0dba\u0dd2 \u0db8\u0d9c\u0dda \u0da2\u0dd3\u0dc0\u0dd3\u0dad\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=bEqZsIBY_8s",
+        "singers": [
+            "\u0dc4\u0dc3\u0db1\u0dca\u0da2\u0dd2\u0dad\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "name": "\u0dc3\u0dd4\u0dbd\u0d9c\u0d9a\u0dca \u0dc0\u0dd9\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=0nvPWEcJYgU",
+        "singers": [
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d87\u0db3\u0dd4\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "name": "\u0db8\u0dd2\u0dc3\u0dd2\u0dc3\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=JezNXM4QjcM",
+        "singers": [
+            "\u0db8\u0dd2\u0dc4\u0dd2\u0db3\u0dd4 \u0d86\u0dbb\u0dd2\u0dba\u0dbb\u0dad\u0dca\u0db1",
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "name": "\u0d94\u0dba \u0daf\u0dd1\u0dad\u0dd2\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=vN2gZguCcAA",
+        "singers": [
+            "\u0d89\u0dbb\u0dd4\u0dc2\u0dcf",
+            "\u0db8\u0daf\u0dd4\u0dc2\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "name": "\u0d85\u0db8\u0dca\u0db8\u0dda \u0db8\u0dcf\u0dad\u0d9a\u0dba\u0dd2 \u0db1\u0db8\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=bJMfuHigDJE",
+        "singers": [
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd4\u0dab",
+                    "\u0d9c\u0dd4\u0dab\u0dcf\u0d82\u0d9c\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0db4\u0dd4\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "name": "\u0db8\u0db0\u0dd4\u0db8\u0dad\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=dV20c_0Cxns",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dad\u0ddc\u0dbd",
+                    "\u0d9a\u0ddc\u0db4\u0dd4\u0dbd",
+                    "\u0d95\u0dc2\u0dca\u0da7\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd4\u0dc3\u0dd4\u0db8"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "name": "\u0dc3\u0dd2\u0dad \u0dc3\u0dd0\u0dbd\u0dd4\u0db1\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=dfaqXzRsaYQ",
+        "singers": [
+            "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda\u0da9\u0dca\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "name": "\u0dc0\u0dc3\u0db1\u0dca\u0dad\u0dda \u0dc3\u0dd2\u0dad \u0dc3\u0dd0\u0dbd\u0dd4\u0db1\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=lbJOu3EEc60",
+        "singers": [
+            "\u0dbb\u0ddc\u0db8\u0dda\u0dc2\u0dca",
+            "\u0dbd\u0d9a\u0dca\u0dc2\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "name": "\u0d8b\u0db1\u0dca\u0db8\u0dcf\u0daf\u0dd2\u0db1\u0dd3 \u0dc4\u0dd0\u0db1\u0dca\u0d9c\u0dd4\u0db1\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=_D_AR9E7bio",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+                    "\u0db4\u0dc0\u0dc3\u0db1\u0dc0\u0dcf",
+                    "\u0db8\u0dd4\u0db8\u0dd4\u0db1\u0db1\u0dc0\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "name": "\u0d94\u0dba \u0dbb\u0dd4\u0dc0",
+        "youtube_link": "https://www.youtube.com/watch?v=U4CLELLcgrg",
+        "singers": [
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "name": "\u0daf\u0d9c\u0dbd\u0db1\u0dca\u0db1 \u0db6\u0dd1 \u0d89\u0dc3\u0dca\u0dc3\u0dbb \u0dc0\u0d9c\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=jgw20Xd4pEU",
+        "singers": [
+            "\u0da9\u0dd0\u0d9e\u0dd3"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "name": "\u0db8\u0d9c\u0dda \u0d9c\u0dbb\u0dca\u0dbd\u0dca \u0db4\u0dca\u0dbb\u0dd9\u0db1\u0dca\u0da9\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=Ku0JyLVJ8W0",
+        "singers": [
+            "\u0da9\u0ddc\u0d9a\u0dca\u0da7\u0dbb\u0dca \u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "name": "\u0dbd\u0dcf \u0dc3\u0daf \u0d86\u0dba\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=lIDbzAOZE7c",
+        "singers": [
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "name": "\u0db8\u0d9c\u0dd9 \u0d87\u0dc3\u0dca \u0daf\u0dd2\u0dc4\u0dcf \u0db6\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=HazBbyp_vdI",
+        "singers": [
+            "6\u0dad\u0dca \u0dbd\u0dda\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dad\u0ddc\u0dbd",
+                    "\u0d9a\u0ddc\u0db4\u0dd4\u0dbd",
+                    "\u0d95\u0dc2\u0dca\u0da7\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "name": "\u0db8\u0dad\u0dca \u0db8\u0dbd\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=-TV8aGbq7d0",
+        "singers": [
+            "\u0d9a\u0dc3\u0dd4\u0db1\u0dca \u0d9a\u0dbd\u0dca\u0dc4\u0dcf\u0dbb"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "name": "\u0db6\u0dc3\u0dca \u0d91\u0d9a\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=OVBeEL1EX0k",
+        "singers": [
+            "\u0dc6\u0db1\u0dca\u0d9a\u0dd2 \u0da9\u0dbb\u0dca\u0da7\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "name": "\u0d89\u0dc0\u0dc3\u0dba\u0dd2\u0daf \u0db8\u0db1\u0dca\u0daf\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=Vb6hj6LYmtQ",
+        "singers": [
+            "\u0d85\u0dad\u0dd4\u0dbd",
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0da2\u0dd2\u0dc0\u0dd3\u0dad\u0dba",
+                    "\u0db4\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "name": "\u0d85\u0dba\u0dd9\u0dad\u0dca \u0dc4\u0daf\u0db1\u0dca\u0db1",
+        "youtube_link": "https://www.youtube.com/watch?v=lx8divTAU_Q",
+        "singers": [
+            "\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0db1 \u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "name": "\u0dbb\u0dad\u0dd4 \u0dbb\u0da7\u0d9a\u0da2\u0dd6",
+        "youtube_link": "https://www.youtube.com/watch?v=Mw5SPG27T8I",
+        "singers": [
+            "\u0dbd\u0dcf \u0dc3\u0dd2\u0d9c\u0dca\u0db1\u0ddc\u0dbb\u0dca (\u0dbd\u0dc4\u0dd2\u0dbb\u0dd4 \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf)"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db6\u0dba\u0dd2\u0dbd\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dca\u0daf\u0dd4\u0dc0",
+                    "\u0d9c\u0dd3\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "name": "\u0dc4\u0dd2\u0dad\u0dd4\u0dc0\u0dd9\u0dc0\u0dad\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0daf\u0dc0\u0dc3\u0d9a",
+        "youtube_link": "https://www.youtube.com/watch?v=4g7wxrjWBoA",
+        "singers": [
+            "\u0dc1\u0dcf\u0dbd\u0dd2\u0dad",
+            "\u0db8\u0dc4\u0dda\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "name": "\u0dc3\u0dd2\u0db1\u0dca\u0daf\u0d9c\u0db1",
+        "youtube_link": "https://www.youtube.com/watch?v=9fGMxM92fQY",
+        "singers": [
+            "\u0dc1\u0dcf\u0dbd\u0dd2\u0dad",
+            "\u0db8\u0dc4\u0dda\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "name": "\u0d94\u0db6\u0dcf \u0dc4\u0dd2\u0d82\u0daf\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=lvORGQybVnE",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "name": "\u0d9c\u0dd4\u0db8\u0dca \u0db1\u0dcf\u0daf\u0dd9",
+        "youtube_link": "https://www.youtube.com/watch?v=kvyzGWOJJQw",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dbd\u0db8\u0dba\u0dca",
+                    "\u0dbd\u0db8\u0dba\u0dcf",
+                    "\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca",
+                    "\u0daf\u0dbb\u0dd4\u0dc0\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "name": "\u0dc2\u0dd3\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=WCGy5Q_Ub7s",
+        "singers": [
+            "\u0da2\u0dba \u0dc1\u0dca\u0dbb\u0dd3"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "name": "\u0db1\u0dd9\u0dbd\u0dd4\u0db8\u0dca \u0dc0\u0dd2\u0dbd\u0dd9\u0db1\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=R2NOv7W1aQs",
+        "singers": [
+            "\u0dbb\u0dc0\u0dd3 \u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dca",
+            "\u0daf\u0dd4\u0dc2\u0dba\u0db1\u0dca\u0dad\u0dca",
+            "\u0dc0\u0db1\u0dca \u0dc3\u0dca\u0da7\u0dd9\u0db4\u0dca \u0d85\u0dc4\u0dd9\u0da9\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc1\u0dd2\u0dbb\u0dca\u200d\u0dbb\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+                    "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "63",
+        "name": "\u0dc3\u0dd4\u0dbb\u0d9f\u0db1",
+        "youtube_link": "https://www.youtube.com/watch?v=70VUYE4Z2lI",
+        "singers": [
+            "\u0dbb\u0dd4\u0d9a\u0dca\u0dc1\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "64",
+        "name": "\u0dc3\u0db4\u0dca\u0dad \u0dc3\u0dca\u0dc0\u0dbb\u0dca\u0dba\u0dba\u0dba\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=pCb-paJo8sI",
+        "singers": [
+            "\u0dbb\u0ddd\u0db1\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db4\u0dcf\u0dbb",
+                    "\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba",
+                    "\u0db8\u0d9c",
+                    "\u0db8\u0dcf\u0dc0\u0dad"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+                    "\u0db4\u0dc0\u0dc3\u0db1\u0dc0\u0dcf",
+                    "\u0db8\u0dd4\u0db8\u0dd4\u0db1\u0db1\u0dc0\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "65",
+        "name": "\u0daf\u0db1\u0dca\u0db1\u0dd9 \u0db1\u0dd1",
+        "youtube_link": "https://www.youtube.com/watch?v=2RnO-0jIggw",
+        "singers": [
+            "\u0d89\u0dbb\u0dd4\u0dc2\u0dcf",
+            "\u0db8\u0daf\u0dd4\u0dc2\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0dad",
+                    "\u0dc4\u0dd2\u0dad",
+                    "\u0db8\u0db1\u0dc3"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dad\u0ddc\u0dbd",
+                    "\u0d9a\u0ddc\u0db4\u0dd4\u0dbd",
+                    "\u0d95\u0dc2\u0dca\u0da7\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "name": "\u0db1\u0dd2\u0db1\u0dca\u0daf \u0db1\u0dd0\u0dad\u0dd4\u0dc0\u0dcf\u0db8",
+        "youtube_link": "https://www.youtube.com/watch?v=6_W6H79oSTk",
+        "singers": [
+            "\u0d91\u0da7\u0dd9\u0dbb\u0dca\u0db1\u0dd2\u0da7\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67",
+        "name": "\u0db8\u0dbd\u0dca \u0dc3\u0dd2\u0db1\u0dca\u0daf\u0dd4\u0dc0",
+        "youtube_link": "https://www.youtube.com/watch?v=0P9YO0k4tCU",
+        "singers": [
+            "\u0d9a\u0dd2\u0dbd\u0dbb\u0dca \u0db6\u0dd3",
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dbd\u0db8\u0dba\u0dca",
+                    "\u0dbd\u0db8\u0dba\u0dcf",
+                    "\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca",
+                    "\u0daf\u0dbb\u0dd4\u0dc0\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "68",
+        "name": "\u0db1\u0dd9\u0dad \u0dbd\u0d9c",
+        "youtube_link": "https://www.youtube.com/watch?v=4Q9zoCjTqe8",
+        "singers": [
+            "\u0db8\u0dcf\u0dbd\u0dd2\u0d9a\u0dcf",
+            "\u0d9a\u0dc0\u0dd3\u0dc2\u0dcf"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "69",
+        "name": "\u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0dcf\u0dc0\u0dd2\u0dba\u0dd9",
+        "youtube_link": "https://www.youtube.com/watch?v=8cdhQRiVnP4",
+        "singers": [
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "70",
+        "name": "\u0dbd\u0db6\u0daf\u0dd3\u0dba\u0dd9",
+        "youtube_link": "https://www.youtube.com/watch?v=vV7e0poLzuM",
+        "singers": [
+            "\u0dbd\u0dcf \u0dc3\u0dd2\u0d9c\u0dca\u0db1\u0ddc\u0dbb\u0dca (\u0dbd\u0dc4\u0dd2\u0dbb\u0dd4 \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf)"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d87\u0dad\u0dcf",
+                    "\u0dc4\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dad\u0ddc\u0dbd",
+                    "\u0d9a\u0ddc\u0db4\u0dd4\u0dbd",
+                    "\u0d95\u0dc2\u0dca\u0da7\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "name": "\u0db8\u0dad\u0d9a \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb",
+        "youtube_link": "https://www.youtube.com/watch?v=sNAJu1St058",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0db8\u0dbd\u0dd2\u0dad\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dad\u0d9a\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "name": "\u0dc3\u0dcf\u0dbb \u0dc3\u0daf\u0dd2\u0dc3\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=xVh-DRcMA7I",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
+            "\u0db6\u0dd3\u0d9a\u0dda"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "name": "\u0db6\u0db9\u0dbb \u0db4\u0dd0\u0da7\u0dd2\u0d9a\u0dca\u0d9a\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=8E7eaob9u-w",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0db6\u0dd3\u0d9a\u0dda",
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dad\u0dca\u0dc0\u0dd4\u0db1 \u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dd9\u0d9a\u0dca",
+                    "\u0db6\u0dda\u0db6\u0daf\u0dca\u0daf\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "name": "\u0db1\u0dcf\u0dbb\u0dd3",
+        "youtube_link": "https://www.youtube.com/watch?v=7bxuipG7__o",
+        "singers": [
+            "\u0da0\u0dd2\u0db1\u0dca\u0dad\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 5,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "75",
+        "name": "\u0db8\u0da7 \u0d86\u0dbd\u0ddc\u0d9a\u0dda \u0d9c\u0dd9\u0db1 \u0daf\u0dda\u0dc0\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=pYcSrQKcyeE",
+        "singers": [
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4",
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0db6\u0dd3\u0d9a\u0dda",
+            "\u0d9a\u0dca\u0dbb\u0dd2\u0dc2\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "76",
+        "name": "\u0d8b\u0db1\u0dca\u0db8\u0dcf\u0daf \u0daf\u0dd9\u0dad\u0ddc\u0dbd\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=E3j4IUq0KJA",
+        "singers": [
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0daf\u0dd4\u0d9a",
+                    "\u0d9a\u0db3\u0dd4\u0dbd",
+                    "\u0d9a\u0dbb\u0daf\u0dbb\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d87\u0dad\u0dcf",
+                    "\u0dc4\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "77",
+        "name": "\u0dc3\u0dd2\u0da7\u0dca\u0da7\u0dd2 \u0db8\u0db1\u0dd3\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=xe0b_lI3G80",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0db4\u0dda\u0dc2\u0dbd"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "name": "\u0dc4\u0dd3\u0db1\u0dba\u0dcf\u0d9a\u0dca \u0dc0\u0dd9\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=I_4Wl5o1mBY",
+        "singers": [
+            "\u0dc3\u0dd4\u0dbb\u0dda\u0db1\u0dca\u0daf\u0dca\u0dbb \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc4\u0dd4\u0daf\u0d9a\u0dbd\u0dcf\u0dc0",
+                    "\u0db4\u0dcf\u0dbd\u0dd4\u0dc0",
+                    "\u0dad\u0db1\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0ddc\u0da9\u0d9a\u0dca \u0d9a\u0dbd\u0dca"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "79",
+        "name": "\u0da7\u0dd4\u0d9a\u0dca \u0da7\u0dd4\u0d9a\u0dca \u0d9c\u0dd3\u0dad\u0dba",
+        "youtube_link": "https://www.youtube.com/watch?v=x4XbegoqkjQ",
+        "singers": [
+            "\u0dbb\u0dd4\u0d9a\u0dca\u0db8\u0db1\u0dca \u0d85\u0dc3\u0dd2\u0dad"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dbd\u0dca\u0dbd\u0dd2",
+                    "\u0db8\u0dd4\u0daf\u0dbd\u0dca",
+                    "\u0d9a\u0dcf\u0dc3\u0dd2",
+                    "\u0db0\u0db1\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0daf\u0dd4\u0d9a",
+                    "\u0d9a\u0db3\u0dd4\u0dbd",
+                    "\u0d9a\u0dbb\u0daf\u0dbb\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "80",
+        "name": "\u0db4\u0dca\u200d\u0dbb\u0dda\u0db8\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=sxiJo8xaw4s",
+        "singers": [
+            "\u0dbb\u0dc0\u0dd3 \u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dca",
+            "\u0dc0\u0db1\u0dca \u0dc3\u0dca\u0da7\u0dd9\u0db4\u0dca \u0d85\u0dc4\u0dd9\u0da9\u0dca",
+            "\u0dc3\u0db8\u0dd2\u0dad\u0dcf \u0db8\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "name": "\u0d9a\u0dd2\u0dbb\u0dd2 \u0d9a\u0ddc\u0daf\u0dd4 \u0dc4\u0dd2\u0dad\u0da7",
+        "youtube_link": "https://www.youtube.com/watch?v=wC5UyTZtQbU",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca",
+            "\u0db1\u0dd2\u0dbb\u0ddd\u0dc2\u0dcf \u0dc0\u0dd2\u0dbb\u0dcf\u0da2\u0dd2\u0db1\u0dd3"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "82",
+        "name": "\u0db8\u0dda \u0d85\u0db4\u0dda \u0daf\u0dda\u0dc1\u0dba\u0dba\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=bsd6xRkVpIA",
+        "singers": [
+            "\u0db6\u0dc4\u0dd4 \u0d9a\u0dbd\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc1\u0dd2\u0dbb\u0dca\u200d\u0dbb\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+                    "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0db8\u0d9c\u0dd2\u0dba",
+                    "\u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "83",
+        "name": "\u0db1\u0dd9\u0dad\u0dd4 \u0dc3\u0dd9\u0dbd\u0dd4\u0db1\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=DttHKAdt5og",
+        "singers": [
+            "\u0dbb\u0ddc\u0db8\u0dda\u0dc2\u0dca",
+            "\u0dbd\u0d9a\u0dca\u0dc2\u0dcf\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0dad\u0dbb\u0dc4",
+                    "\u0d9a\u0dd9\u0db1\u0dca\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "name": "\u0d86\u0dbd\u0dc0\u0db1\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=EVT9dCDlFCY",
+        "singers": [
+            "\u0d85\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "85",
+        "name": "\u0dbb\u0dc0\u0dd4\u0db8\u0dca \u0d9a\u0da9\u0dda \u0dbd\u0d9f",
+        "youtube_link": "https://www.youtube.com/watch?v=Uv2x1PG1ZYA",
+        "singers": [
+            "\u0d9c\u0dba\u0db1\u0dca\u0dad \u0dc0\u0dd2\u0da2\u0dba\u0dbb\u0dad\u0dca\u0db1"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0db4\u0dca\u200d\u0dbb\u0dcf\u0dbb\u0dca\u0dad\u0db1\u0dcf\u0dc0",
+                    "\u0db4\u0dd0\u0dad\u0dd4\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "86",
+        "name": "\u0d94\u0db6 \u0db8\u0d9c\u0dd9\u0db8\u0dcf\u0dba\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=Jm2lAsApUEk",
+        "singers": [
+            "\u0d85\u0dc1\u0dcf\u0db1\u0dca\u0dad\u0dd2",
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "87",
+        "name": "\u0dc3\u0dd4\u0daf\u0dd4 \u0d9a\u0dd9\u0dbd\u0dca\u0dbd\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=rCwKhTv5MUg",
+        "singers": [
+            "\u0db8\u0dbd\u0dca\u0da7\u0dd2\u0dc3\u0dca\u0da7\u0dba\u0dd2\u0dbd\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "name": "\u0d9a\u0dc3\u0dca\u0dad\u0dd4\u0dbb\u0dd2 \u0dc3\u0dd4\u0dc0\u0db1\u0dca\u0daf\u0d9a\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=iN4BiSEagZI",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0dc4\u0dd4\u0daf\u0d9a\u0dbd\u0dcf\u0dc0",
+                    "\u0db4\u0dcf\u0dbd\u0dd4\u0dc0",
+                    "\u0dad\u0db1\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "name": "\u0daf\u0dd1\u0dc3 \u0dad\u0dd9\u0db8\u0dd2\u0dbd\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=iBue-3YBRsI",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0d89\u0db1\u0dca\u0dc6\u0dcf\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0da2\u0dd2\u0dc0\u0dd3\u0dad\u0dba",
+                    "\u0db4\u0db1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "name": "\u0db4\u0dd0\u0dc4\u0dd0\u0dc3\u0dbb",
+        "youtube_link": "https://www.youtube.com/watch?v=04Fjw2mgYpQ",
+        "singers": [
+            "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda\u0da9\u0dca\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0daf\u0dd9\u0db1\u0dd9\u0dad\u0dca \u0db4\u0dd2\u0dba\u0db1\u0dca"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "name": "\u0db6\u0db9\u0dbb \u0db1\u0dcf\u0daf\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=suXi_1mWGOE",
+        "singers": [
+            "\u0db6\u0dcf\u0da0\u0dd2 \u0dc3\u0dd4\u0dc3\u0dcf\u0db1\u0dca",
+            "\u0dc1\u0dcf\u0db1\u0dd2\u0d9a\u0dcf \u0db8\u0db0\u0dd4\u0db8\u0dcf\u0dbd\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0da2\u0dd2\u0dc0\u0dd3\u0dad\u0dba",
+                    "\u0db4\u0db1"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+                    "\u0db4\u0dc0\u0dc3\u0db1\u0dc0\u0dcf",
+                    "\u0db8\u0dd4\u0db8\u0dd4\u0db1\u0db1\u0dc0\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "92",
+        "name": "\u0dc4\u0dd2\u0dad \u0db1\u0dcf\u0db6\u0dbb \u0dad\u0dcf\u0dbd\u0dd9\u0da7\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=xgq8yyEcCcQ",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0dc3\u0d82\u0dad\u0dd4\u0dc2\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "93",
+        "name": "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dd9 \u0d85\u0db8\u0dca\u0db8\u0dcf\u0d9c\u0dd9",
+        "youtube_link": "https://www.youtube.com/watch?v=utN_q1kNNzA",
+        "singers": [
+            "\u0db1\u0dd2\u0dbb\u0ddd\u0dc2\u0dcf \u0dc0\u0dd2\u0dbb\u0dcf\u0da2\u0dd2\u0db1\u0dd3",
+            "\u0d9a\u0dc3\u0dd4\u0db1\u0dca \u0d9a\u0dbd\u0dca\u0dc4\u0dcf\u0dbb",
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c",
+            "\u0d8b\u0db8\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0d82\u0dc4\u0dc0\u0d82\u0dc1"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d85\u0db8\u0dca\u0db8\u0dcf",
+                    "\u0db8\u0dc0",
+                    "\u0db8\u0dcf\u0dad\u0dcf\u0dc0",
+                    "\u0db8\u0dd1\u0dab\u0dd2\u0dba",
+                    "\u0db8\u0dcf\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "94",
+        "name": "\u0db4\u0daf\u0dca\u0daf \u0db4\u0daf\u0dca\u0daf",
+        "youtube_link": "https://www.youtube.com/watch?v=daItj81IDMs",
+        "singers": [
+            "\u0dbb\u0dc0\u0dd3\u0db1\u0dca\u0daf\u0dca\u0dbb \u0db8\u0dd3\u0d9c\u0db8\u0d86\u0dbb\u0da0\u0dca\u0da0\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dbd\u0dca\u0dbd\u0dd2",
+                    "\u0db8\u0dd4\u0daf\u0dbd\u0dca",
+                    "\u0d9a\u0dcf\u0dc3\u0dd2",
+                    "\u0db0\u0db1\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "95",
+        "name": "\u0d85\u0d9c\u0dca\u0d9c\u0dbd \u0db6\u0ddd\u0dbd\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=12ivaYpv9ro",
+        "singers": [
+            "\u0da7\u0dd9\u0dc4\u0dcf\u0db1\u0dca \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "96",
+        "name": "\u0d9a\u0da7\u0d9a\u0dcf\u0dbb\u0db1\u0db8\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=oWGhefmseZA",
+        "singers": [
+            "\u0d89\u0dbb\u0dcf\u0da2\u0dca",
+            "\u0d9a\u0dd2\u0dbd\u0dbb\u0dca \u0db6\u0dd3",
+            "\u0d9a\u0dd4\u0dc2\u0dcf\u0db1\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0daf\u0dd4\u0d9a",
+                    "\u0d9a\u0db3\u0dd4\u0dbd",
+                    "\u0d9a\u0dbb\u0daf\u0dbb\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dba\u0db1\u0dc0\u0dcf"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0db8\u0dd2\u0db1\u0dd2\u0dc4\u0dcf",
+                    "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dcf",
+                    "\u0db4\u0dd4\u0dbb\u0dd4\u0dc1\u0dba\u0dcf",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "name": "\u0dbb\u0db8\u0dca\u0db6\u0dbb\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=HcAqCssBbXE",
+        "singers": [
+            "\u0dbd\u0dcf \u0dc3\u0dd2\u0d9c\u0dca\u0db1\u0ddc\u0dbb\u0dca (\u0dbd\u0dc4\u0dd2\u0dbb\u0dd4 \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf)"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "98",
+        "name": "\u0db8\u0ddc\u0da7\u0dca\u0da7\u0dd4",
+        "youtube_link": "https://www.youtube.com/watch?v=0L1ooLjGKJ0",
+        "singers": [
+            "\u0dbd\u0dcf \u0dc3\u0dd2\u0d9c\u0dca\u0db1\u0ddc\u0dbb\u0dca (\u0dbd\u0dc4\u0dd2\u0dbb\u0dd4 \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf)"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc0\u0dd2\u0dc4\u0dd2\u0dbd\u0dd4\u0dc0",
+                    "\u0dc0\u0dd2\u0dc4\u0dd2\u0dbd\u0dd4\u0dc0\u0d9a\u0dca"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc4\u0dd2\u0dbb\u0d9c\u0dd9\u0daf\u0dbb",
+                    "\u0dc3\u0dd2\u0dbb \u0d9c\u0dd9\u0daf\u0dbb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "99",
+        "name": "\u0dc4\u0dbb\u0dca\u0da9\u0dca \u0d9a\u0dd9\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=H-16zoiXJI8",
+        "singers": [
+            "\u0dbb\u0db1\u0dd2\u0daf\u0dd4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dad\u0ddc\u0dbd",
+                    "\u0d9a\u0ddc\u0db4\u0dd4\u0dbd",
+                    "\u0d95\u0dc2\u0dca\u0da7\u0dba"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "100",
+        "name": "\u0d94\u0db6\u0dcf \u0d91\u0db1\u0dca\u0db1 \u0d86\u0dba\u0dd9",
+        "youtube_link": "https://www.youtube.com/watch?v=koCIBlHanFU",
+        "singers": [
+            "\u0db7\u0dcf\u0dad\u0dd2\u0dba",
+            "\u0db8\u0dd3\u0db1\u0dcf \u0db4\u0dca\u0dbb\u0dc1\u0dcf\u0daf\u0dd2\u0db1\u0dd3"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "101",
+        "name": "\u0db6\u0ddc\u0dbb\u0dd4\u0d9a\u0dcf\u0dbb\u0dd2",
+        "youtube_link": "https://www.youtube.com/watch?v=Gj5FZG3qwyE",
+        "singers": [
+            "\u0da9\u0dd0\u0d9e\u0dd3"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc0\u0dad",
+                    "\u0db8\u0dd4\u0dc4\u0dd4\u0db1",
+                    "\u0db8\u0dd6\u0db1"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+                    "\u0db4\u0dc0\u0dc3\u0db1\u0dc0\u0dcf",
+                    "\u0db8\u0dd4\u0db8\u0dd4\u0db1\u0db1\u0dc0\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "102",
+        "name": "\u0dc3\u0dd3\u0dad \u0db8\u0dbb\u0dd4\u0dad\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=gF55A66RmC8",
+        "singers": [
+            "\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0dd9\u0da7\u0dca\u0da7\u0dd2\u0d86\u0dbb\u0da0\u0dca\u0da0\u0dd2"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db8\u0dad\u0d9a\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0dc4\u0dd2\u0dad",
+                    "\u0db8\u0db1\u0dc3"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 5,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "103",
+        "name": "\u0db8\u0dbd\u0dca \u0db4\u0dd9\u0dad\u0dca\u0dad\u0d9a\u0dca",
+        "youtube_link": "https://www.youtube.com/watch?v=6N_ix3zIwEU",
+        "singers": [
+            "6\u0dad\u0dca \u0dbd\u0dda\u0db1\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0dc3\u0dd2\u0dad",
+                    "\u0dc4\u0dd2\u0dad",
+                    "\u0db8\u0db1\u0dc3"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "104",
+        "name": "\u0dc3\u0dd4\u0daf\u0dd4 \u0d85\u0dc3\u0dd4",
+        "youtube_link": "https://www.youtube.com/watch?v=q4fROPovU6U",
+        "singers": [
+            "\u0dbd\u0d9a\u0dca\u0dc2\u0dd2\u0dad",
+            "\u0dc4\u0dbb\u0dd6\u0db1\u0dca",
+            "\u0dc3\u0dd2\u0dad\u0dca\u0dad"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9a\u0dd9\u0dc3\u0dca",
+                    "\u0d9a\u0ddc\u0db1\u0dca\u0da9\u0dba",
+                    "\u0d9a\u0dda\u0dc1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "105",
+        "name": "\u0dc4\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1 \u0db8\u0dcf \u0dc4\u0dd2\u0dad",
+        "youtube_link": "https://www.youtube.com/watch?v=a9Awsefnisg",
+        "singers": [
+            "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda\u0da9\u0dca\u0dc3\u0dca"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dad\u0dd4\u0dbb\u0dd4\u0dbd"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "106",
+        "name": "\u0db8\u0dbd\u0dca \u0d94\u0dc3\u0dbb\u0dd2\u0dba",
+        "youtube_link": "https://www.youtube.com/watch?v=Ua4uf9DT-bA",
+        "singers": [
+            "\u0daf\u0dd4\u0dc2\u0dcf\u0db1\u0dca \u0da2\u0dba\u0dad\u0dd2\u0dbd\u0d9a"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0dc3\u0dd2\u0db1\u0dc4\u0dc0",
+                    "\u0dc3\u0dd2\u0db1\u0dcf\u0dc0"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0dba\u0dc0\u0dca\u0dc0\u0db1\u0dba\u0db1\u0dca",
+                    "\u0dad\u0dbb\u0dd4\u0db1\u0dba\u0db1\u0dca",
+                    "\u0dad\u0dbb\u0dd4\u0db1 \u0dc0\u0dba\u0dc3",
+                    "\u0dad\u0dbb\u0dd4\u0db1\u0dba\u0dcf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "107",
+        "name": "\u0da0\u0d9a\u0dd2\u0dad\u0dba",
+        "youtube_link": "https://www.youtube.com/watch?v=T10C89mQ2lA",
+        "singers": [
+            "\u0db8\u0dd2\u0dc4\u0dd2\u0db3\u0dd4 \u0d86\u0dbb\u0dd2\u0dba\u0dbb\u0dad\u0dca\u0db1"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0daf\u0dd4\u0d9a",
+                    "\u0d9a\u0db3\u0dd4\u0dbd",
+                    "\u0d9a\u0dbb\u0daf\u0dbb\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dc0\u0db1\u0dca\u0dad\u0dba\u0db1\u0dca",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dc0\u0db1\u0dca\u0dad\u0dba\u0db1\u0dca",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dd9\u0dc0\u0db1\u0dca\u0dad\u0dba\u0db1\u0dca"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "108",
+        "name": "\u0d87\u0dc3 \u0d9c\u0dd0\u0da7\u0dd9\u0db1\u0dcf",
+        "youtube_link": "https://www.youtube.com/watch?v=RqDsqVnDuAs",
+        "singers": [
+            "\u0dc1\u0dd2\u0dc4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dc4\u0dd2\u0dbb\u0d82\u0d9c"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0db1\u0dda\u0dad\u0dca\u0dbb\u0dba",
+                    "\u0db1\u0dd9\u0dad",
+                    "\u0d87\u0dc3",
+                    "\u0db1\u0dd4\u0dc0\u0dab\u0dca",
+                    "\u0db1\u0dd4\u0dc0\u0dab",
+                    "\u0d87\u0dc4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "name": "\u0dc3\u0dbb\u0dad\u0dca \u0dc3\u0daf\u0dda",
+        "youtube_link": "https://www.youtube.com/watch?v=gB-7q2iSJg4",
+        "singers": [
+            "\u0db6\u0dcf\u0da0\u0dd2 \u0dc3\u0dd4\u0dc3\u0dcf\u0db1\u0dca",
+            "\u0da0\u0dbb\u0dd2\u0dad\u0dca \u0d85\u0db6\u0dda\u0dc3\u0dd2\u0d82\u0dc4"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dc0\u0db1\u0dca\u0dad\u0dba\u0db1\u0dca",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dc0\u0db1\u0dca\u0dad\u0dba\u0db1\u0dca",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dd9\u0dc0\u0db1\u0dca\u0dad\u0dba\u0db1\u0dca"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d86\u0daf\u0dbb\u0dba",
+                    "\u0dc3\u0dd9\u0db1\u0dd9\u0dc4\u0dc3",
+                    "\u0db4\u0dca\u0dbb\u0dda\u0db8\u0dba",
+                    "\u0d87\u0dbd\u0dca\u0db8"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "110",
+        "name": "\u0db8\u0d9c\u0dd9 \u0daf\u0dd4\u0db4\u0dca\u0db4\u0dad\u0dca \u0d87\u0dc3\u0dca \u0daf\u0dd9\u0d9a",
+        "youtube_link": "https://www.youtube.com/watch?v=WGTVUmi26DE",
+        "singers": [
+            "\u0da0\u0dd2\u0dd2\u0dd2\u0dd3\u0dd2\u0db8\u0dca\u0d9a\u0dcf \u0dc3\u0dd2\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0db1"
+        ],
+        "metaphors": [
+            {
+                "meta_id": 1,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 2,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 3,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            },
+            {
+                "meta_id": 4,
+                "targets": [
+                    "\u0d9c\u0dd0\u0dc4\u0dd0\u0db1\u0dd2\u0dba",
+                    "\u0d9a\u0dd9\u0dbd\u0dca\u0dbd",
+                    "\u0d9a\u0db1\u0dca\u0dad\u0dcf\u0dc0",
+                    "\u0db4\u0dd9\u0db8\u0dca\u0dc0\u0dad\u0dd2\u0dba"
+                ]
+            }
+        ]
+    }
+]
