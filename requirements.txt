@@ -5,3 +5,4 @@ filelock==3.9.0
 platformdirs==2.6.2
 urllib3==1.26.13
 virtualenv==20.17.1
+Flask==2.2.2

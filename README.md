@@ -7,11 +7,15 @@ Metaphor Source Recommendation System For Sinhala Songs
 4. Run *bin\elasticsearch.bat* to start Elastic Search
 5. Run *bin\kibana.bat* to start Kibana
 6. Make sure kibana running on [ http://localhost:5601](http://localhost:5601) 
-6. Download this project
-7. In project root folder create virtual environment by
+7. Download this project
+8. In project root folder create virtual environment by
     1. Run *python -m pip install virtualenv*
     2. Run *python -m venv env*
     3. Activate environment by running *env\Scripts\activate*
     4. Install requirements by running *python -m pip install -r requirements.txt*
     5. Verify installation by *python -m pip list*
-8. Run *python initialize.py* to initialization
+9. Run *python initialize.py* to initialization
+10. Run *python app.py* to start flask server
+11. Now system is running
+## How To Use
+1. Go to [http://127.0.0.1:5000](http://127.0.0.1:5000), which is the home page of app
