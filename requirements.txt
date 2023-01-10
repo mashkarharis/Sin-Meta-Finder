@@ -6,3 +6,5 @@ platformdirs==2.6.2
 urllib3==1.26.13
 virtualenv==20.17.1
 Flask==2.2.2
+Flask-Session==0.4.0
+sinling==0.3.6

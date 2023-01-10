@@ -1,7 +1,50 @@
 <head>
     <title>සිං-Meta Finder</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+    <!--jQuery UI-->
+    <link rel="stylesheet" type="text/css"
+        href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/redmond/jquery-ui.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.0.0.min.js"></script>
+
+    <!--Bootstrap-->
+    <link rel="stylesheet" type="text/css"
+        href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.css">
+    <script type="text/javascript"
+        src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.js"></script>
+
     <link rel="stylesheet" type="text/css" href="./styles.css">
+    <script>
+        func1 = function (results) {
+            console.log(results)
+            console.log("AAA");
+        }
+
+        get_suggestions = function (val) {
+
+            console.log(val);
+            $.ajax({
+                url: "/suggestions/" + val,
+                type: 'GET',
+                success: function (res) {
+                    $("#form-search").autocomplete({
+                        source: res
+                    });
+
+                    // console.log(res);
+                    // $("#form-search").autocomplete({
+                    //     lookup: res,
+                    //     onSelect: function (suggestion) {
+                    //         alert('you selected ' + suggestion.value + ' which has data' + suggestion.data);
+                    //     }
+                    // });
+                }
+            });
+        }
+    </script>
 </head>
 
 <body>
@@ -13,21 +56,33 @@
         <a href="#" id="logo"><img
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_uc9hFkbKs_JggDIyBNPRNx_IR4HkGoP68Q&usqp=CAU"
                 alt="Sin-Meta Logo" /></a>
-        <p id="tag">උපමා යොදා සින්දු රසවත් කරමු</p>
+        <p id="tag">රචකයා, තනු, නම්, උපමා, උපමේයන් සොයමු</p>
     </div>
 
     <!-- FORM SEARCH -->
     <div class="form">
-        <form>
+        <form action="/submit" method="post">
             <label for="form-search"></label>
-            <input type="text" id="form-search" placeholder="උපමේයක් යොදන්න. සින්දු වල ඇති ඊට ගැලපෙන උපමා ලැබේ">
+            <input type="text" oninput="get_suggestions(this.value)" name="form-search" id="form-search"
+                placeholder="සිංහලින් ඇතුලත් කරන්න">
+            <!-- BUTTONS -->
+            <div class="buttons">
+                <input type="submit" value="සොයන්න" id="search">
+            </div>
         </form>
+        <p id="msg">{{msg}}</p>
     </div>
 
-    <!-- BUTTONS -->
-    <div class="buttons">
-        <input type="submit" value="සොයන්න" id="search">
+    <div id="metalist">
+        {% for key in results.keys() %}
+        <div id="onemeta">
+            <p id="onemetaname">{{ key }} </p>
+            <button id="onemetaexpand" onclick="func1('{{key}}')" class="btn"><i class="fa fa-podcast"></i></button>
+            <meta id="data-{{key}}" data="{{results[key]}}" hidden />
+            <!-- {% for song in results[key] %}
+            <p>{{ song.name }}</p>
+            {% endfor %} -->
+        </div>
+        {% endfor %}
     </div>
-
-    
 </body>

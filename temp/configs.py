@@ -9,32 +9,36 @@ PARAMS = {
         },
         "analysis": {
             "analyzer": {
-                "sinhala-tokens-ngram": { # Indexing Time
+                "sinhala-ngram": {
                     "type": "custom",
-                    "tokenizer": "icu_tokenizer", # Divide Into Words, ICU_TOKENIZER Best With Asian Languages
-                    "char_filter": ["punctuation_char_replace_filter"], # For Short Texts We Replace Special Characters
+                    "tokenizer": "icu_tokenizer",
+                    "char_filter": ["punctuation_char_remove_filter"],
                     "token_filter": [
-                        "edge_n_gram_filter" # Create N-Grams For Each Divided Words
+                        "edge_n_gram_filter"
                     ]
                 },
-                "sinhala-tokens-words": { # Indexing TIme
+                "sinhala": {
                     "type": "custom",
-                    "tokenizer": "icu_tokenizer", # Divide Into Words, ICU_TOKENIZER Best With Asian Languages
-                    "char_filter": ["punctuation_char_remove_filter"]  # For Long Texts We Remove Special Characters
-                    # Don't Do N-Gram Because We Apply This For Long Sentences Like Lyrics. N-Gram Will Be An Overhead
+                    "tokenizer": "icu_tokenizer",
+                    "char_filter": ["punctuation_char_filter"]
                 },
-                "sinhala-search": { # Searching Time
+                "english": {
                     "type": "custom",
-                    "tokenizer": "standard", # Divide Into Words, ICU_TOKENIZER Best With Asian Languages
-                    "char_filter": ["punctuation_char_replace_filter"],  # For Short Texts We Replace Special Characters
+                    "tokenizer": "classic",
+                    "char_filter": ["punctuation_char_filter"],
+                },
+                "sinhala-search": {
+                    "type": "custom",
+                    "tokenizer": "standard",
+                    "char_filter": ["punctuation_char_remove_filter"]
                 },
             },
             "char_filter": {
-                "punctuation_char_remove_filter": {
+                "punctuation_char_filter": {
                     "type": "mapping",
                     "mappings": [".=>", "|=>", "-=>", "_=>", "'=>", "/=>", ",=>"]
                 },
-                "punctuation_char_replace_filter": {
+                "punctuation_char_remove_filter": {
                     "type": "mapping",
                     "mappings": [".=>\\u0020", "|=>\\u0020", "-=>\\u0020", "_=>\\u0020", "'=>\\u0020", "/=>\\u0020", ",=>\\u0020"]
                 }
@@ -62,7 +66,7 @@ PARAMS = {
                             "ignore_above": 256
                         },
                 },
-                "analyzer": "sinhala-tokens-ngram",
+                "analyzer": "sinhala-ngram",
                 "search_analyzer": "sinhala-search"
             },
             "youtube_link": {
@@ -76,7 +80,7 @@ PARAMS = {
                             "ignore_above": 256
                         },
                 },
-                "analyzer": "sinhala-tokens-ngram",
+                "analyzer": "sinhala-ngram",
                 "search_analyzer": "sinhala-search"
             },
             "metaphors": {
@@ -93,7 +97,7 @@ PARAMS = {
                                 "ignore_above": 256
                             },
                         },
-                        "analyzer": "sinhala-tokens-ngram",
+                        "analyzer": "sinhala-ngram",
                         "search_analyzer": "sinhala-search"
                     },
                     "source": {
@@ -104,18 +108,18 @@ PARAMS = {
                                 "ignore_above": 256
                             },
                         },
-                        "analyzer": "sinhala-tokens-ngram",
+                        "analyzer": "sinhala-ngram",
                         "search_analyzer": "sinhala-search"
                     },
                     "interpretation": {
-                        "type": "completion",
+                        "type": "text",
                         "fields": {
                             "keyword": {
                                 "type": "keyword",
                                 "ignore_above": 256
                             },
                         },
-                        "analyzer": "sinhala-tokens-words",
+                        "analyzer": "sinhala",
                         "search_analyzer": "sinhala-search"
                     }
                 }
@@ -130,14 +134,14 @@ PARAMS = {
                 "type": "long"
             },
             "lyrics": {
-                "type": "completion",
+                "type": "text",
                 "fields": {
                         "keyword": {
                             "type": "keyword",
                             "ignore_above": 256
                         },
                 },
-                "analyzer": "sinhala-tokens-words",
+                "analyzer": "sinhala",
                 "search_analyzer": "sinhala-search"
             }
         }
