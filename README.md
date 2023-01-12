@@ -36,12 +36,13 @@ Metaphor Source Recommendation System For Sinhala Songs / Poetry
 4. Moreover query processing result for each search will be shown in a blue texted box
 
 ## Screenshot
+![screenshot](https://github.com/mashkarharis/Sin-Meta-Finder/blob/main/extra/ss.PNG)
 ## Query Processing Result
-This will be shown in blue texted box as shown below,
-
+This will be shown in blue texted box as shown below,\
+![configs](https://github.com/mashkarharis/Sin-Meta-Finder/blob/main/extra/query_processing_result.PNG)
 
 ## Suggestions While Typing
-
+![suggestions](https://github.com/mashkarharis/Sin-Meta-Finder/blob/main/extra/search.png)
 ## What Can You Search
 #### Boost by Song Name
 Ex:-  රන් කුරහන් මල ගීතය
@@ -229,21 +230,5 @@ Contains 110 Songs. Can be found at,
 }
 ```
 ## Query Processing Steps
-
-
-
-
-//-> spell correction / auto complete
-//-> strip
-//-> special character removal
-//-> tokenization
-//-> stop word removal
--> boosting by keyword
-    by artist
-    by name
-    meta target
-    meta source
--> sorting by aluth, prasidhdha
--> limiting factors
-
+![steps_of_query_processing](https://github.com/mashkarharis/Sin-Meta-Finder/blob/main/extra/query_processing_steps.jpg)
 
