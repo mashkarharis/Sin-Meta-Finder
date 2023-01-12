@@ -18,10 +18,28 @@
 
     <link rel="stylesheet" type="text/css" href="./styles.css">
     <script>
-        func1 = function (results) {
-            console.log(results)
-            console.log("AAA");
-        }
+        // metainfo = function (meta) {
+        //     console.log(meta);
+        //     $(".modal-header modal-title").val("වැඩි විස්තර");
+        //     $('#meta-details-modal').modal('show');
+
+        // }
+
+        $(document).on("click", "#meta-details", function () {
+            var source = $(this).data('source');
+            console.log(source);
+            targets = $(this).data('targets');
+            targets = targets.replaceAll('[','')
+            targets = targets.replaceAll(']','')
+            targets = targets.replaceAll('\'','')
+            console.log(targets)
+            var inte = $(this).data('inte');
+            console.log(inte)
+            $("#modal-title-id").text("වැඩිදුර විස්තර");
+            $(".modal-body #source").text("උපමේය : "+source)
+            $(".modal-body #targets").text("උපමා : "+targets)
+            $(".modal-body #inte").text("පැහැදිලි කිරීම : "+inte)
+        });
 
         get_suggestions = function (val) {
 
@@ -30,17 +48,10 @@
                 url: "/suggestions/" + val,
                 type: 'GET',
                 success: function (res) {
+                    console.log(res)
                     $("#form-search").autocomplete({
                         source: res
                     });
-
-                    // console.log(res);
-                    // $("#form-search").autocomplete({
-                    //     lookup: res,
-                    //     onSelect: function (suggestion) {
-                    //         alert('you selected ' + suggestion.value + ' which has data' + suggestion.data);
-                    //     }
-                    // });
                 }
             });
         }
@@ -70,19 +81,109 @@
                 <input type="submit" value="සොයන්න" id="search">
             </div>
         </form>
-        <p id="msg">{{msg}}</p>
+    </div>
+    <div class="configs">
+        {% for m in msg %}
+        <p id="msg">{{m}}</p>
+        {% endfor %}
+    </div>
+    <div class="container" id="song-table">
+        <div class="row" id="song-row-h">
+            <div class="song-column-h">
+                <p id="msg1">ID</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">LINK</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">NAME</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">VIEWS</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">PUBLISHED</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">LENGHT (S)</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">METAPHORS</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">SINGERS</p>
+            </div>
+            <div class="song-column-h">
+                <p id="msg1">LYRICS</p>
+            </div>
+        </div>
+        {% for song in results %}
+        <div class="row" id="song-row">
+            <div class="song-column">
+                <p id="msg1">{{song.id}}</p>
+            </div>
+            <div class="song-column">
+                <a id="yt-btn" href="{{song.youtube_link}}" target="_blank">VIEW</a>
+            </div>
+            <div class="song-column">
+                <p id="msg1">{{song.name}}</p>
+            </div>
+            <div class="song-column">
+                <p id="msg1">{{song.view_count}}</p>
+            </div>
+            <div class="song-column">
+                <p id="msg1">{{song.published_on}}</p>
+            </div>
+            <div class="song-column">
+                <p id="msg1">{{song.length}}</p>
+            </div>
+            <div class="song-column">
+                {% for meta in song.metaphors %}
+                <a id="meta-details" data-inte="{{meta.interpretation}}" data-targets="{{meta.targets}}" data-source="{{meta.source}}" data-toggle="modal"
+                    href="#meta-details-modal">{{meta.source}}</a><br><br>
+                {% endfor %}
+            </div>
+            <div class="song-column">
+                {% for singer in song.singers %}
+                <p id="msg1">{{singer}}</p>
+                {% endfor %}
+            </div>
+            <div class="song-column">
+                {% if song.lyrics=="වලන්ගු මූලාශ්රයක් නැත" %}
+                <p id="msg1">-</p>
+                {% else %}
+                {% for lyricsrow in song.lyrics %}
+                <p id="msg1">{{lyricsrow}}</p>
+                {% endfor %}
+                {% endif %}
+            </div>
+
+        </div>
+
+        {% endfor %}
     </div>
 
-    <div id="metalist">
-        {% for key in results.keys() %}
-        <div id="onemeta">
-            <p id="onemetaname">{{ key }} </p>
-            <button id="onemetaexpand" onclick="func1('{{key}}')" class="btn"><i class="fa fa-podcast"></i></button>
-            <meta id="data-{{key}}" data="{{results[key]}}" hidden />
-            <!-- {% for song in results[key] %}
-            <p>{{ song.name }}</p>
-            {% endfor %} -->
+
+    <!-- Modal -->
+    <div id="meta-details-modal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title" id="modal-title-id">Modal Header</h4>
+                </div>
+                <div class="modal-body">
+                    <p id="source">-</p>
+                    <p id="targets">-</p>
+                    <p id="inte">-</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
         </div>
-        {% endfor %}
     </div>
 </body>

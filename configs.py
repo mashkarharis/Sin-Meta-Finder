@@ -63,7 +63,7 @@ PARAMS = {
                         },
                 },
                 "analyzer": "sinhala-tokens-ngram",
-                "search_analyzer": "sinhala-search"
+                "search_analyzer": "sinhala-search",
             },
             "youtube_link": {
                 "type": "text"
@@ -124,7 +124,7 @@ PARAMS = {
                 "type": "long"
             },
             "published_on": {
-                "type": "text"
+                "type": "date"
             },
             "length": {
                 "type": "long"

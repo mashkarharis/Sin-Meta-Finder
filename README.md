@@ -21,20 +21,20 @@ Metaphor Source Recommendation System For Sinhala Songs
 1. Go to [http://127.0.0.1:5000](http://127.0.0.1:5000), which is the home page of app
 
 
-by artist
-by name
-meta target
-meta source
+
 
 -> spell correction / auto complete
 -> strip
 -> special character removal
 -> tokenization
 -> stop word removal
-boosting by keyword
-sorting by aluth, prasidhdha
-limiting factors
-
+-> boosting by keyword
+    by artist
+    by name
+    meta target
+    meta source
+-> sorting by aluth, prasidhdha
+-> limiting factors
 
 
 

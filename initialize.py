@@ -2,12 +2,22 @@ from elasticsearch7 import Elasticsearch, helpers
 import json
 import configs
 import os
+import time
+from datetime import datetime
+from time import mktime
+
 
 def load_songs():
     song_dir=os.path.join(os.getcwd(), "songs")
     for filename in os.listdir(song_dir):
         with open(os.path.join(song_dir, filename), 'r') as f:
+            
             data = json.load(f)
+            date=data['published_on']
+            time_obj_default = time.strptime(date, "%b %d, %Y")
+            a= datetime.fromtimestamp(mktime(time_obj_default))
+            data['published_on']=str(a)[:10]
+
             yield{
                 "_index": configs.INDEX,
                 "_source":data

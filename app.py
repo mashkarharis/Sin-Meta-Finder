@@ -19,9 +19,9 @@ Session(app)
 def home():
 
     if not session.get("results"):
-        session["results"]={}
+        session["results"]=[]
     if not session.get("msg"):
-        session["msg"]=""
+        session["msg"]=["WELCOME"]
 
     results=session["results"]
     msg=session["msg"]
@@ -36,54 +36,44 @@ def submit():
     search_term = processor.special_char_remove(search_term)
     tokens = processor.tokenize(search_term)
     tokens = processor.stop_word_remove(tokens)
-    get_boosters=processor.get_boosters(tokens)
-    
 
-    
+    get_boosters=processor.get_boosters(tokens)
+    get_sorting_type = processor.get_sorter(tokens)
+    get_range = processor.get_range(tokens)
+    query_text = processor.query_text(tokens)
     
     
     query={
-        "nested": {
-            "path":"metaphors",
-            "query": {
-                "bool": {
-                    "must": [
-                        { "match": { "metaphors.targets": "ඇස" } }
-                    ]
-                }
-            }
-        }
+        "multi_match":{
+         "query":query_text,
+         "fields":get_boosters,
+         "operator":"or",
+         "type":"best_fields",
+         "fuzziness":"AUTO"
+      }
     }
-    response = es_client.search(index=configs.INDEX,query=query)
-    songs_num = response["hits"]["total"]["value"]
+
+    sort=[
+        get_sorting_type
+    ]
+
+    response = es_client.search(index=configs.INDEX,query=query,sort=sort,size=get_range)
+    songs_num = len(response["hits"]["hits"])
     songs=[]
     for i in range(songs_num):
         songs.append(response["hits"]["hits"][i]["_source"])
     
-    metas={}
-    for song in songs:
-        for meta in song["metaphors"]:
-            if search_term in meta["targets"]:
-                source=meta["source"]
-                if source not in metas.keys():
-                    metas[source]=[]
-                metas[source].append({
-                    "id":song["id"],
-                    "name":song["name"],
-                    "youtube_link":song["youtube_link"],
-                    "singers":song["singers"],
-                    "source":meta["source"],
-                    "interpretation":meta["interpretation"],
-                    "possible_targets":meta["targets"],
-                    "view_count":song["view_count"],
-                    "published_on":song["published_on"],
-                    "length":song["length"],
-                    "lyrics":song["lyrics"]             
-                })
+    msg =[]
+    msg.append("search term : "+str(search_term))
+    msg.append("tokens : "+str(query_text))
+    msg.append("sorting type : "+str(get_sorting_type))
+    msg.append("max range : "+str(get_range))
+    msg.append("boosters : "+str(get_boosters))
+    msg.append("no of results : "+str(songs_num))
 
 
-    session["results"]=metas
-    session["msg"]=tokens#"උපමා "+str(len(metas))+" ක් සොයාගන්නා ලදි"
+    session["results"]=songs
+    session["msg"]=msg
     return redirect(url_for('home'))
         
 
@@ -101,15 +91,21 @@ def styles():
 
 @app.get('/suggestions/<typed>')
 def suggestions(typed):
+    all=str(typed).split()
+    last=all.pop()
+    all_str=""
+    for i in all:
+        all_str+=i+" "
+
     query= {
-            "source": {
-                "prefix": typed,
+            "interpretation": {
+                "prefix": last,
                 "completion": {
                     "field": "metaphors.interpretation"
                 }
             },
             "lyrics": {
-                "prefix": typed,
+                "prefix": last,
                 "completion": {
                     "field": "lyrics"
                 }
@@ -120,15 +116,15 @@ def suggestions(typed):
 
     suggestions=set()
 
-    for val in response['suggest']["source"][0]['options']:        
+    for val in response['suggest']["interpretation"][0]['options']:        
         text = ""
         for chr in str(val['text']):
             if chr not in "[!@#$%^&*()[];:,./<>?\|`~-=_+]":
                 text+=chr
         words = text.strip().split()
         for word in words:
-            if typed in word:
-                suggestions.add(word)
+            if last in word:
+                suggestions.add(all_str+word)
 
     for val in response['suggest']["lyrics"][0]['options']:
         text = ""
@@ -137,8 +133,8 @@ def suggestions(typed):
                 text+=chr
         words = text.strip().split()
         for word in words:
-            if typed in word:
-                suggestions.add(word)
+            if last in word:
+                suggestions.add(all_str+word)
 
     return list(suggestions)
 

@@ -47,4 +47,29 @@ class Processor:
          ]
 
          return boosters
+
+    def get_sorter(self,tokens):
+
+        by_date=0
+        by_popularity=0
+
+        date =["නවතම", "අලුත්", "නව", "අලුත්ම" ]
+        popularity = ['ජනප්‍රිය', 'ප්‍රචලිත', 'ප්‍රසිද්ධ', 'ජනප්‍රියම', 'ප්‍රචලිතම' 'ප්‍රචලිතම']
+
+        for token in tokens:
+            if token in date:
+                by_date+=1
+            if token in popularity:
+                by_popularity+=1
         
+        return {"view_count":"desc"} if by_popularity>by_date else {"published_on":"desc"}
+
+    def get_range(self,tokens):
+        range = 10
+        for token in tokens:
+            if str(token).isdigit():
+                range = int(token)
+        return range
+        
+    def query_text(self,tokens):
+        return " ".join(tokens)
