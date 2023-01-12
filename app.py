@@ -53,11 +53,16 @@ def submit():
       }
     }
 
-    sort=[
-        get_sorting_type
-    ]
 
-    response = es_client.search(index=configs.INDEX,query=query,sort=sort,size=get_range)
+    if get_sorting_type!=None:
+        sort=[
+            get_sorting_type
+        ]
+        response = es_client.search(index=configs.INDEX,query=query,sort=sort,size=get_range)
+    
+    else:
+        response = es_client.search(index=configs.INDEX,query=query,size=get_range)
+    
     songs_num = len(response["hits"]["hits"])
     songs=[]
     for i in range(songs_num):

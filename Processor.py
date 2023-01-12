@@ -61,6 +61,9 @@ class Processor:
                 by_date+=1
             if token in popularity:
                 by_popularity+=1
+
+        if by_date==by_popularity:
+            return None
         
         return {"view_count":"desc"} if by_popularity>by_date else {"published_on":"desc"}
 
