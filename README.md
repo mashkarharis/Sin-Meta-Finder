@@ -233,9 +233,7 @@ Contains 110 Songs. Can be found at,
 ![steps_of_query_processing](https://github.com/mashkarharis/Sin-Meta-Finder/blob/main/extra/query_processing_steps.jpg)
 
 ## License
-[MIT LICENSE](https://github.com/mashkarharis/Sin-Meta-Finder/blob/main/LICENSE)
-
-MIT License
+[MIT License](https://github.com/mashkarharis/Sin-Meta-Finder/blob/main/LICENSE)
 
 Copyright (c) 2022 Mohomed Haris Mohomed Ashkar
 
